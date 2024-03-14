@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 14 15:12:08 MSK 2024","Thu Mar 14 15:12:21 MSK 2024","12584","tests","test_feature_profile","TestProfileFeatureTests","","","Change profile name",""
